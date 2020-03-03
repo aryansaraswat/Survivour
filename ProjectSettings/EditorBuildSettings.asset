@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: bc28d6a4fae4f4743a0f6a0135aa6c65
+  - enabled: 1
+    path: Assets/Scenes/Survivor.unity
+    guid: 4badc44b23c10411ca9abcb0fde982c7
+  - enabled: 1
+    path: Assets/Scenes/navmesh.unity
+    guid: ae0781d0ecd3b4c4b9d22f3d5973246d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: a892c087fed59ff418ca7b13ce97bddd
+  m_configObjects: {}
